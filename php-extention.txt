@@ -1,0 +1,53 @@
+Run Below commands to get magento 2 dependecies of php 
+
+apt-get install php8.1-bcmath 
+apt-get install php8.1-calendar
+apt-get install php8.1-Core
+apt-get install php8.1-ctype 
+apt-get install php8.1-curl 
+apt-get install php8.1-date 
+apt-get install php8.1-dom 
+apt-get install php8.1-exif 
+apt-get install php8.1-FFI 
+apt-get install php8.1-fileinfo 
+apt-get install php8.1-filter 
+apt-get install php8.1-ftp
+apt-get install php8.1-gd 
+apt-get install php8.1-gettext 
+apt-get install php8.1-hash 
+apt-get install php8.1-iconv 
+apt-get install php8.1-intl 
+apt-get install php8.1-json 
+apt-get install php8.1-libxml 
+apt-get install php8.1-mbstring 
+apt-get install php8.1-mysqli 
+apt-get install php8.1-mysqlnd 
+apt-get install php8.1-openssl 
+apt-get install php8.1-pcntl 
+apt-get install php8.1-pcre 
+apt-get install php8.1-PDO 
+apt-get install php8.1-pdo_mysql 
+apt-get install php8.1-Phar 
+apt-get install php8.1-posix 
+apt-get install php8.1-readline 
+apt-get install php8.1-Reflection 
+apt-get install php8.1-session 
+apt-get install php8.1-shmop 
+apt-get install php8.1-SimpleXML 
+apt-get install php8.1-soap 
+apt-get install php8.1-sockets 
+apt-get install php8.1-sodium 
+apt-get install php8.1-SPL 
+apt-get install php8.1-standard 
+apt-get install php8.1-sysvmsg 
+apt-get install php8.1-sysvsem 
+apt-get install php8.1-sysvshm 
+apt-get install php8.1-tokenizer 
+apt-get install php8.1-xml 
+apt-get install php8.1-xmlreader 
+apt-get install php8.1-xmlwriter 
+apt-get install php8.1-xsl 
+apt-get install php8.1-zip 
+apt-get install php8.1-zlib
+
+Note : Change version of php as per requirement !!
